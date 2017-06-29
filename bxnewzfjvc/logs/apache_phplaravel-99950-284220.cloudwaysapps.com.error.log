@@ -1,0 +1,1 @@
+[Thu Jun 29 16:24:27.823927 2017] [mpm_itk:warn] [pid 23007] (13)Permission denied: [client 127.0.0.1:60038] Couldn't read /home/99950.cloudwaysapps.com/bxnewzfjvc/public_html/public/, closing connection.
